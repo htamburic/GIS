@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>exp1</name>
+<visibility>1</visibility>
+<Folder id="kml_id_gis_shopping_1.1.5">
+<name>kml_id_gis_shopping_1.1.5</name>
+<Placemark id="kml_1">
+<name>Arena Centar</name>
+<LookAt>
+<longitude>15.94012999916145</longitude>
+<latitude>45.77045299853319</latitude>
+<altitude>0</altitude>
+<range>1000.000076069169</range>
+<tilt>0</tilt>
+<heading>-6.00908557078265e-10</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.9401398709303,45.7703015057454,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>Point Shopping Centar</name>
+<LookAt>
+<longitude>15.91362119943063</longitude>
+<latitude>45.79087839980809</latitude>
+<altitude>0</altitude>
+<range>1000.00009024725</range>
+<tilt>0</tilt>
+<heading>-4.081733044909389e-10</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.9136211994306,45.7908783998081,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>Shopping Centar Prečko</name>
+<LookAt>
+<longitude>15.90082717609041</longitude>
+<latitude>45.7954092692359</latitude>
+<altitude>0</altitude>
+<range>368.8436919642114</range>
+<tilt>19.476716024317</tilt>
+<heading>0.0002233789827855859</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.9003816651948,45.7958444859556,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>City Centar One East</name>
+<LookAt>
+<longitude>16.05089680003147</longitude>
+<latitude>45.80219740122524</latitude>
+<altitude>0</altitude>
+<range>1000.000190441998</range>
+<tilt>44.9997370476357</tilt>
+<heading>4.449277943899312e-11</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>16.0508968000315,45.8021974012252,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>City Centar One West</name>
+<LookAt>
+<longitude>15.8849432435079</longitude>
+<latitude>45.79897700358046</latitude>
+<altitude>0</altitude>
+<range>1005.856802487792</range>
+<tilt>0</tilt>
+<heading>-2.177057873914962e-10</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.8849432435079,45.7989770035805,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>Centar Kaptol</name>
+<LookAt>
+<longitude>15.97756402746131</longitude>
+<latitude>45.82023331843016</latitude>
+<altitude>0</altitude>
+<range>1010.333207886819</range>
+<tilt>0</tilt>
+<heading>-2.281157428639264e-10</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.9775640274613,45.8202333184302,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>Garden Mall</name>
+<LookAt>
+<longitude>16.04615410089287</longitude>
+<latitude>45.83625670092783</latitude>
+<altitude>0</altitude>
+<range>1000.000075552286</range>
+<tilt>0</tilt>
+<heading>6.404555739875824e-10</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>16.0461541008929,45.8362567009278,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>Importane Centar</name>
+<LookAt>
+<longitude>15.9771890997084</longitude>
+<latitude>45.80535100069915</latitude>
+<altitude>0</altitude>
+<range>1000.000102031287</range>
+<tilt>0</tilt>
+<heading>-2.091039772554781e-10</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.9771890997084,45.8053510006991,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>Importane Galleria</name>
+<LookAt>
+<longitude>15.98514341398983</longitude>
+<latitude>45.81330112317109</latitude>
+<altitude>0</altitude>
+<range>1008.873500917154</range>
+<tilt>0</tilt>
+<heading>-2.052006415226521e-09</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.9851434139898,45.8133011231711,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>West Gate</name>
+<LookAt>
+<longitude>15.82664032258194</longitude>
+<latitude>45.87151002838904</latitude>
+<altitude>0</altitude>
+<range>1434.249814581385</range>
+<tilt>0</tilt>
+<heading>1.176314393040284e-07</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.8266403225819,45.871510028389,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>Avenue Mall</name>
+<LookAt>
+<longitude>15.97892920100963</longitude>
+<latitude>45.7763878006782</latitude>
+<altitude>0</altitude>
+<range>1000.000096357733</range>
+<tilt>0</tilt>
+<heading>7.23458509509736e-10</heading>
+<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</LookAt>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>15.9788008443224,45.7763327091464,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
